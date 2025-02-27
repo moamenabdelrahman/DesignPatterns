@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35728.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicStyling", "DynamicStyling(Decorator)\DynamicStyling.csproj", "{086B5FA9-6D74-4D83-AFE8-7A1B769832AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSystem", "FileSystem(Composite)\FileSystem.csproj", "{587C1634-6A82-4C61-B24D-20EEBBA39F2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacySystem", "LegacySystem(Adapter)\LegacySystem.csproj", "{A0A96E6E-38A1-47BE-ACF9-7B231707CFCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{086B5FA9-6D74-4D83-AFE8-7A1B769832AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{086B5FA9-6D74-4D83-AFE8-7A1B769832AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{086B5FA9-6D74-4D83-AFE8-7A1B769832AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{086B5FA9-6D74-4D83-AFE8-7A1B769832AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{587C1634-6A82-4C61-B24D-20EEBBA39F2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{587C1634-6A82-4C61-B24D-20EEBBA39F2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{587C1634-6A82-4C61-B24D-20EEBBA39F2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{587C1634-6A82-4C61-B24D-20EEBBA39F2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0A96E6E-38A1-47BE-ACF9-7B231707CFCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0A96E6E-38A1-47BE-ACF9-7B231707CFCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0A96E6E-38A1-47BE-ACF9-7B231707CFCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0A96E6E-38A1-47BE-ACF9-7B231707CFCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
