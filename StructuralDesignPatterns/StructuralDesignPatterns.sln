@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSystem", "FileSystem(Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacySystem", "LegacySystem(Adapter)\LegacySystem.csproj", "{A0A96E6E-38A1-47BE-ACF9-7B231707CFCC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentProcessor", "PaymentProcessor(Bridge)\PaymentProcessor.csproj", "{A1D75EC4-3848-4990-9061-DF9D4B4F5FCA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A0A96E6E-38A1-47BE-ACF9-7B231707CFCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0A96E6E-38A1-47BE-ACF9-7B231707CFCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0A96E6E-38A1-47BE-ACF9-7B231707CFCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1D75EC4-3848-4990-9061-DF9D4B4F5FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D75EC4-3848-4990-9061-DF9D4B4F5FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1D75EC4-3848-4990-9061-DF9D4B4F5FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1D75EC4-3848-4990-9061-DF9D4B4F5FCA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DynamicStyling")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30bd6e07fc776b7b4b014b38bb91a73959b1f194")]
 [assembly: System.Reflection.AssemblyProductAttribute("DynamicStyling")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DynamicStyling")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

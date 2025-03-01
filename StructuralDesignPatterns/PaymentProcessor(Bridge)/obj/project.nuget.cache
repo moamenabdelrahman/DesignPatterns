@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "It3EEA78DF4=",
+  "success": true,
+  "projectFilePath": "D:\\DesignPatterns\\StructuralDesignPatterns\\PaymentProcessor(Bridge)\\PaymentProcessor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moame\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.200\\microsoft.net.sdk.compilers.toolset.9.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
