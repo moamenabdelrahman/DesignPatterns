@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2hbSpqMqQLw=",
+  "success": true,
+  "projectFilePath": "D:\\DesignPatterns\\StructuralDesignPatterns\\TextEditor(Flyweight)\\TextEditor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moame\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.200\\microsoft.net.sdk.compilers.toolset.9.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}

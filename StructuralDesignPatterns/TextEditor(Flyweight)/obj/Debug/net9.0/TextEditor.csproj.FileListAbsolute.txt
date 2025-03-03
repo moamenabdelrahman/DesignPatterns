@@ -1,0 +1,15 @@
+D:\DesignPatterns\StructuralDesignPatterns\TextEditor(Flyweight)\bin\Debug\net9.0\TextEditor.exe
+D:\DesignPatterns\StructuralDesignPatterns\TextEditor(Flyweight)\bin\Debug\net9.0\TextEditor.deps.json
+D:\DesignPatterns\StructuralDesignPatterns\TextEditor(Flyweight)\bin\Debug\net9.0\TextEditor.runtimeconfig.json
+D:\DesignPatterns\StructuralDesignPatterns\TextEditor(Flyweight)\bin\Debug\net9.0\TextEditor.dll
+D:\DesignPatterns\StructuralDesignPatterns\TextEditor(Flyweight)\bin\Debug\net9.0\TextEditor.pdb
+D:\DesignPatterns\StructuralDesignPatterns\TextEditor(Flyweight)\obj\Debug\net9.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesignPatterns\StructuralDesignPatterns\TextEditor(Flyweight)\obj\Debug\net9.0\TextEditor.AssemblyInfoInputs.cache
+D:\DesignPatterns\StructuralDesignPatterns\TextEditor(Flyweight)\obj\Debug\net9.0\TextEditor.AssemblyInfo.cs
+D:\DesignPatterns\StructuralDesignPatterns\TextEditor(Flyweight)\obj\Debug\net9.0\TextEditor.csproj.CoreCompileInputs.cache
+D:\DesignPatterns\StructuralDesignPatterns\TextEditor(Flyweight)\obj\Debug\net9.0\TextEditor.sourcelink.json
+D:\DesignPatterns\StructuralDesignPatterns\TextEditor(Flyweight)\obj\Debug\net9.0\TextEditor.dll
+D:\DesignPatterns\StructuralDesignPatterns\TextEditor(Flyweight)\obj\Debug\net9.0\refint\TextEditor.dll
+D:\DesignPatterns\StructuralDesignPatterns\TextEditor(Flyweight)\obj\Debug\net9.0\TextEditor.pdb
+D:\DesignPatterns\StructuralDesignPatterns\TextEditor(Flyweight)\obj\Debug\net9.0\TextEditor.genruntimeconfig.cache
+D:\DesignPatterns\StructuralDesignPatterns\TextEditor(Flyweight)\obj\Debug\net9.0\ref\TextEditor.dll

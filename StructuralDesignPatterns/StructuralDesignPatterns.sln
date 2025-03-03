@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentProcessor", "Payment
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartHome", "SmartHome(Facade)\SmartHome.csproj", "{81EEC4D6-1298-43EA-9068-7581884DE153}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextEditor", "TextEditor(Flyweight)\TextEditor.csproj", "{292A371F-4EDB-4D64-B20C-3DE249672F43}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{81EEC4D6-1298-43EA-9068-7581884DE153}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81EEC4D6-1298-43EA-9068-7581884DE153}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81EEC4D6-1298-43EA-9068-7581884DE153}.Release|Any CPU.Build.0 = Release|Any CPU
+		{292A371F-4EDB-4D64-B20C-3DE249672F43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{292A371F-4EDB-4D64-B20C-3DE249672F43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{292A371F-4EDB-4D64-B20C-3DE249672F43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{292A371F-4EDB-4D64-B20C-3DE249672F43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
