@@ -1,0 +1,15 @@
+D:\DesignPatterns\BehavioralDesignPatterns\RequestHandler(CoR)\bin\Debug\net9.0\RequestHandler.exe
+D:\DesignPatterns\BehavioralDesignPatterns\RequestHandler(CoR)\bin\Debug\net9.0\RequestHandler.deps.json
+D:\DesignPatterns\BehavioralDesignPatterns\RequestHandler(CoR)\bin\Debug\net9.0\RequestHandler.runtimeconfig.json
+D:\DesignPatterns\BehavioralDesignPatterns\RequestHandler(CoR)\bin\Debug\net9.0\RequestHandler.dll
+D:\DesignPatterns\BehavioralDesignPatterns\RequestHandler(CoR)\bin\Debug\net9.0\RequestHandler.pdb
+D:\DesignPatterns\BehavioralDesignPatterns\RequestHandler(CoR)\obj\Debug\net9.0\RequestHandler.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesignPatterns\BehavioralDesignPatterns\RequestHandler(CoR)\obj\Debug\net9.0\RequestHandler.AssemblyInfoInputs.cache
+D:\DesignPatterns\BehavioralDesignPatterns\RequestHandler(CoR)\obj\Debug\net9.0\RequestHandler.AssemblyInfo.cs
+D:\DesignPatterns\BehavioralDesignPatterns\RequestHandler(CoR)\obj\Debug\net9.0\RequestHandler.csproj.CoreCompileInputs.cache
+D:\DesignPatterns\BehavioralDesignPatterns\RequestHandler(CoR)\obj\Debug\net9.0\RequestHandler.sourcelink.json
+D:\DesignPatterns\BehavioralDesignPatterns\RequestHandler(CoR)\obj\Debug\net9.0\RequestHandler.dll
+D:\DesignPatterns\BehavioralDesignPatterns\RequestHandler(CoR)\obj\Debug\net9.0\refint\RequestHandler.dll
+D:\DesignPatterns\BehavioralDesignPatterns\RequestHandler(CoR)\obj\Debug\net9.0\RequestHandler.pdb
+D:\DesignPatterns\BehavioralDesignPatterns\RequestHandler(CoR)\obj\Debug\net9.0\RequestHandler.genruntimeconfig.cache
+D:\DesignPatterns\BehavioralDesignPatterns\RequestHandler(CoR)\obj\Debug\net9.0\ref\RequestHandler.dll
