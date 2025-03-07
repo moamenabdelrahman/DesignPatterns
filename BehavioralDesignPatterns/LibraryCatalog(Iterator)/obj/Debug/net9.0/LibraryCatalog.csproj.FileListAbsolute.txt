@@ -1,0 +1,15 @@
+D:\DesignPatterns\BehavioralDesignPatterns\LibraryCatalog(Iterator)\bin\Debug\net9.0\LibraryCatalog.exe
+D:\DesignPatterns\BehavioralDesignPatterns\LibraryCatalog(Iterator)\bin\Debug\net9.0\LibraryCatalog.deps.json
+D:\DesignPatterns\BehavioralDesignPatterns\LibraryCatalog(Iterator)\bin\Debug\net9.0\LibraryCatalog.runtimeconfig.json
+D:\DesignPatterns\BehavioralDesignPatterns\LibraryCatalog(Iterator)\bin\Debug\net9.0\LibraryCatalog.dll
+D:\DesignPatterns\BehavioralDesignPatterns\LibraryCatalog(Iterator)\bin\Debug\net9.0\LibraryCatalog.pdb
+D:\DesignPatterns\BehavioralDesignPatterns\LibraryCatalog(Iterator)\obj\Debug\net9.0\LibraryCatalog.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesignPatterns\BehavioralDesignPatterns\LibraryCatalog(Iterator)\obj\Debug\net9.0\LibraryCatalog.AssemblyInfoInputs.cache
+D:\DesignPatterns\BehavioralDesignPatterns\LibraryCatalog(Iterator)\obj\Debug\net9.0\LibraryCatalog.AssemblyInfo.cs
+D:\DesignPatterns\BehavioralDesignPatterns\LibraryCatalog(Iterator)\obj\Debug\net9.0\LibraryCatalog.csproj.CoreCompileInputs.cache
+D:\DesignPatterns\BehavioralDesignPatterns\LibraryCatalog(Iterator)\obj\Debug\net9.0\LibraryCatalog.sourcelink.json
+D:\DesignPatterns\BehavioralDesignPatterns\LibraryCatalog(Iterator)\obj\Debug\net9.0\LibraryCatalog.dll
+D:\DesignPatterns\BehavioralDesignPatterns\LibraryCatalog(Iterator)\obj\Debug\net9.0\refint\LibraryCatalog.dll
+D:\DesignPatterns\BehavioralDesignPatterns\LibraryCatalog(Iterator)\obj\Debug\net9.0\LibraryCatalog.pdb
+D:\DesignPatterns\BehavioralDesignPatterns\LibraryCatalog(Iterator)\obj\Debug\net9.0\LibraryCatalog.genruntimeconfig.cache
+D:\DesignPatterns\BehavioralDesignPatterns\LibraryCatalog(Iterator)\obj\Debug\net9.0\ref\LibraryCatalog.dll
