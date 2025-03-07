@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35728.132
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RequestHandler", "RequestHandler(CoR)\RequestHandler.csproj", "{87C4FAB8-99BC-4EC1-926C-BEF0E4F702B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskScheduler", "TaskScheduler(Command)\TaskScheduler.csproj", "{BBDA72F3-5402-4424-840F-956BB8EB6B68}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{87C4FAB8-99BC-4EC1-926C-BEF0E4F702B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87C4FAB8-99BC-4EC1-926C-BEF0E4F702B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87C4FAB8-99BC-4EC1-926C-BEF0E4F702B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBDA72F3-5402-4424-840F-956BB8EB6B68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBDA72F3-5402-4424-840F-956BB8EB6B68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBDA72F3-5402-4424-840F-956BB8EB6B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBDA72F3-5402-4424-840F-956BB8EB6B68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
