@@ -1,0 +1,15 @@
+D:\DesignPatterns\BehavioralDesignPatterns\EventHandler(Mediator)\bin\Debug\net9.0\EventHandler.exe
+D:\DesignPatterns\BehavioralDesignPatterns\EventHandler(Mediator)\bin\Debug\net9.0\EventHandler.deps.json
+D:\DesignPatterns\BehavioralDesignPatterns\EventHandler(Mediator)\bin\Debug\net9.0\EventHandler.runtimeconfig.json
+D:\DesignPatterns\BehavioralDesignPatterns\EventHandler(Mediator)\bin\Debug\net9.0\EventHandler.dll
+D:\DesignPatterns\BehavioralDesignPatterns\EventHandler(Mediator)\bin\Debug\net9.0\EventHandler.pdb
+D:\DesignPatterns\BehavioralDesignPatterns\EventHandler(Mediator)\obj\Debug\net9.0\EventHandler.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesignPatterns\BehavioralDesignPatterns\EventHandler(Mediator)\obj\Debug\net9.0\EventHandler.AssemblyInfoInputs.cache
+D:\DesignPatterns\BehavioralDesignPatterns\EventHandler(Mediator)\obj\Debug\net9.0\EventHandler.AssemblyInfo.cs
+D:\DesignPatterns\BehavioralDesignPatterns\EventHandler(Mediator)\obj\Debug\net9.0\EventHandler.csproj.CoreCompileInputs.cache
+D:\DesignPatterns\BehavioralDesignPatterns\EventHandler(Mediator)\obj\Debug\net9.0\EventHandler.sourcelink.json
+D:\DesignPatterns\BehavioralDesignPatterns\EventHandler(Mediator)\obj\Debug\net9.0\EventHandler.dll
+D:\DesignPatterns\BehavioralDesignPatterns\EventHandler(Mediator)\obj\Debug\net9.0\refint\EventHandler.dll
+D:\DesignPatterns\BehavioralDesignPatterns\EventHandler(Mediator)\obj\Debug\net9.0\EventHandler.pdb
+D:\DesignPatterns\BehavioralDesignPatterns\EventHandler(Mediator)\obj\Debug\net9.0\EventHandler.genruntimeconfig.cache
+D:\DesignPatterns\BehavioralDesignPatterns\EventHandler(Mediator)\obj\Debug\net9.0\ref\EventHandler.dll

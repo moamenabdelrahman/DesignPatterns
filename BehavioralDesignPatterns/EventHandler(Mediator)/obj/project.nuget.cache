@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "agNmqvd+AM0=",
+  "success": true,
+  "projectFilePath": "D:\\DesignPatterns\\BehavioralDesignPatterns\\EventHandler(Mediator)\\EventHandler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moame\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.200\\microsoft.net.sdk.compilers.toolset.9.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
