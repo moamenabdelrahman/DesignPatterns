@@ -1,0 +1,15 @@
+D:\DesignPatterns\BehavioralDesignPatterns\DocumentVersioning(Memento)\bin\Debug\net9.0\DocumentVersioning.exe
+D:\DesignPatterns\BehavioralDesignPatterns\DocumentVersioning(Memento)\bin\Debug\net9.0\DocumentVersioning.deps.json
+D:\DesignPatterns\BehavioralDesignPatterns\DocumentVersioning(Memento)\bin\Debug\net9.0\DocumentVersioning.runtimeconfig.json
+D:\DesignPatterns\BehavioralDesignPatterns\DocumentVersioning(Memento)\bin\Debug\net9.0\DocumentVersioning.dll
+D:\DesignPatterns\BehavioralDesignPatterns\DocumentVersioning(Memento)\bin\Debug\net9.0\DocumentVersioning.pdb
+D:\DesignPatterns\BehavioralDesignPatterns\DocumentVersioning(Memento)\obj\Debug\net9.0\DocumentVersioning.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesignPatterns\BehavioralDesignPatterns\DocumentVersioning(Memento)\obj\Debug\net9.0\DocumentVersioning.AssemblyInfoInputs.cache
+D:\DesignPatterns\BehavioralDesignPatterns\DocumentVersioning(Memento)\obj\Debug\net9.0\DocumentVersioning.AssemblyInfo.cs
+D:\DesignPatterns\BehavioralDesignPatterns\DocumentVersioning(Memento)\obj\Debug\net9.0\DocumentVersioning.csproj.CoreCompileInputs.cache
+D:\DesignPatterns\BehavioralDesignPatterns\DocumentVersioning(Memento)\obj\Debug\net9.0\DocumentVersioning.sourcelink.json
+D:\DesignPatterns\BehavioralDesignPatterns\DocumentVersioning(Memento)\obj\Debug\net9.0\DocumentVersioning.dll
+D:\DesignPatterns\BehavioralDesignPatterns\DocumentVersioning(Memento)\obj\Debug\net9.0\refint\DocumentVersioning.dll
+D:\DesignPatterns\BehavioralDesignPatterns\DocumentVersioning(Memento)\obj\Debug\net9.0\DocumentVersioning.pdb
+D:\DesignPatterns\BehavioralDesignPatterns\DocumentVersioning(Memento)\obj\Debug\net9.0\DocumentVersioning.genruntimeconfig.cache
+D:\DesignPatterns\BehavioralDesignPatterns\DocumentVersioning(Memento)\obj\Debug\net9.0\ref\DocumentVersioning.dll
