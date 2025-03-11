@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventHandler", "EventHandle
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentVersioning", "DocumentVersioning(Memento)\DocumentVersioning.csproj", "{C8F8A791-3350-4F7B-9939-1F591EDACCE9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherMonitoring", "WeatherMonitoring(Observer)\WeatherMonitoring.csproj", "{E4A13EAF-0C13-4FED-87DA-28A4E5CCE36A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{C8F8A791-3350-4F7B-9939-1F591EDACCE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8F8A791-3350-4F7B-9939-1F591EDACCE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8F8A791-3350-4F7B-9939-1F591EDACCE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4A13EAF-0C13-4FED-87DA-28A4E5CCE36A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4A13EAF-0C13-4FED-87DA-28A4E5CCE36A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4A13EAF-0C13-4FED-87DA-28A4E5CCE36A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4A13EAF-0C13-4FED-87DA-28A4E5CCE36A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

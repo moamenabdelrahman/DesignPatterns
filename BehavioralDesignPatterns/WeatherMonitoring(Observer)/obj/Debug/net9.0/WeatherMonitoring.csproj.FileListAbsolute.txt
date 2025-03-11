@@ -1,0 +1,15 @@
+D:\DesignPatterns\BehavioralDesignPatterns\WeatherMonitoring(Observer)\bin\Debug\net9.0\WeatherMonitoring.exe
+D:\DesignPatterns\BehavioralDesignPatterns\WeatherMonitoring(Observer)\bin\Debug\net9.0\WeatherMonitoring.deps.json
+D:\DesignPatterns\BehavioralDesignPatterns\WeatherMonitoring(Observer)\bin\Debug\net9.0\WeatherMonitoring.runtimeconfig.json
+D:\DesignPatterns\BehavioralDesignPatterns\WeatherMonitoring(Observer)\bin\Debug\net9.0\WeatherMonitoring.dll
+D:\DesignPatterns\BehavioralDesignPatterns\WeatherMonitoring(Observer)\bin\Debug\net9.0\WeatherMonitoring.pdb
+D:\DesignPatterns\BehavioralDesignPatterns\WeatherMonitoring(Observer)\obj\Debug\net9.0\WeatherMonitoring.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesignPatterns\BehavioralDesignPatterns\WeatherMonitoring(Observer)\obj\Debug\net9.0\WeatherMonitoring.AssemblyInfoInputs.cache
+D:\DesignPatterns\BehavioralDesignPatterns\WeatherMonitoring(Observer)\obj\Debug\net9.0\WeatherMonitoring.AssemblyInfo.cs
+D:\DesignPatterns\BehavioralDesignPatterns\WeatherMonitoring(Observer)\obj\Debug\net9.0\WeatherMonitoring.csproj.CoreCompileInputs.cache
+D:\DesignPatterns\BehavioralDesignPatterns\WeatherMonitoring(Observer)\obj\Debug\net9.0\WeatherMonitoring.sourcelink.json
+D:\DesignPatterns\BehavioralDesignPatterns\WeatherMonitoring(Observer)\obj\Debug\net9.0\WeatherMonitoring.dll
+D:\DesignPatterns\BehavioralDesignPatterns\WeatherMonitoring(Observer)\obj\Debug\net9.0\refint\WeatherMonitoring.dll
+D:\DesignPatterns\BehavioralDesignPatterns\WeatherMonitoring(Observer)\obj\Debug\net9.0\WeatherMonitoring.pdb
+D:\DesignPatterns\BehavioralDesignPatterns\WeatherMonitoring(Observer)\obj\Debug\net9.0\WeatherMonitoring.genruntimeconfig.cache
+D:\DesignPatterns\BehavioralDesignPatterns\WeatherMonitoring(Observer)\obj\Debug\net9.0\ref\WeatherMonitoring.dll
