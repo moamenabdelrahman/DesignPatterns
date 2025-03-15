@@ -1,0 +1,15 @@
+D:\DesignPatterns\BehavioralDesignPatterns\DocumentRenderer(Template)\bin\Debug\net9.0\DocumentRenderer.exe
+D:\DesignPatterns\BehavioralDesignPatterns\DocumentRenderer(Template)\bin\Debug\net9.0\DocumentRenderer.deps.json
+D:\DesignPatterns\BehavioralDesignPatterns\DocumentRenderer(Template)\bin\Debug\net9.0\DocumentRenderer.runtimeconfig.json
+D:\DesignPatterns\BehavioralDesignPatterns\DocumentRenderer(Template)\bin\Debug\net9.0\DocumentRenderer.dll
+D:\DesignPatterns\BehavioralDesignPatterns\DocumentRenderer(Template)\bin\Debug\net9.0\DocumentRenderer.pdb
+D:\DesignPatterns\BehavioralDesignPatterns\DocumentRenderer(Template)\obj\Debug\net9.0\DocumentRenderer.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesignPatterns\BehavioralDesignPatterns\DocumentRenderer(Template)\obj\Debug\net9.0\DocumentRenderer.AssemblyInfoInputs.cache
+D:\DesignPatterns\BehavioralDesignPatterns\DocumentRenderer(Template)\obj\Debug\net9.0\DocumentRenderer.AssemblyInfo.cs
+D:\DesignPatterns\BehavioralDesignPatterns\DocumentRenderer(Template)\obj\Debug\net9.0\DocumentRenderer.csproj.CoreCompileInputs.cache
+D:\DesignPatterns\BehavioralDesignPatterns\DocumentRenderer(Template)\obj\Debug\net9.0\DocumentRenderer.sourcelink.json
+D:\DesignPatterns\BehavioralDesignPatterns\DocumentRenderer(Template)\obj\Debug\net9.0\DocumentRenderer.dll
+D:\DesignPatterns\BehavioralDesignPatterns\DocumentRenderer(Template)\obj\Debug\net9.0\refint\DocumentRenderer.dll
+D:\DesignPatterns\BehavioralDesignPatterns\DocumentRenderer(Template)\obj\Debug\net9.0\DocumentRenderer.pdb
+D:\DesignPatterns\BehavioralDesignPatterns\DocumentRenderer(Template)\obj\Debug\net9.0\DocumentRenderer.genruntimeconfig.cache
+D:\DesignPatterns\BehavioralDesignPatterns\DocumentRenderer(Template)\obj\Debug\net9.0\ref\DocumentRenderer.dll

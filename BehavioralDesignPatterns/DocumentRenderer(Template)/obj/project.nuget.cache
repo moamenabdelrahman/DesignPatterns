@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L5MGF6xqHHw=",
+  "success": true,
+  "projectFilePath": "D:\\DesignPatterns\\BehavioralDesignPatterns\\DocumentRenderer(Template)\\DocumentRenderer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moame\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.200\\microsoft.net.sdk.compilers.toolset.9.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
